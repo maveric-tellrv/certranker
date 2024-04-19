@@ -1,0 +1,7 @@
+__pycache__/
+
+#configaration file
+config.py
+#test Dire
+test/
+testcase_uploader/

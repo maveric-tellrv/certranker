@@ -1,0 +1,7 @@
+langchain_cohere
+jira
+fastapi
+transformers
+langchain_postgres
+uvicorn
+psycopg2-binary
